@@ -6,7 +6,7 @@ Hello, I'm ChaeWon Kim, blending diverse inputs to craft meaningful value.
 
 I'm majoring in **AI Big Data Management** and minoring in **Computer Science**.
 
-I am currently focused on **Computer Vision** and the development of **Anomaly Detection** algorithms.
+I am currently focused on **Computer Vision**, **Multi-Modal**, and the development of **Anomaly Detection** algorithms.
 
 **ᆞ Please check for additional information about me here: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://abrupt-galley-143.notion.site/Hello-I-m-Chaewon-Kim-caa692a9c7b44aa2b9a9c328507a4e5b?pvs=4) (Portfolio)**
 
