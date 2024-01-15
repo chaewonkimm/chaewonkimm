@@ -2,7 +2,9 @@
 
 
 ## Hi There
-Hello, I'm ChaeWon Kim, majoring in **AI Big Data Management** and minoring in **Computer Science**.
+Hello, I'm ChaeWon Kim, blending diverse inputs to craft meaningful value.
+
+I'm majoring in **AI Big Data Management** and minoring in **Computer Science**.
 
 I am currently focused on **Computer Vision** and the development of **Anomaly Detection** algorithms.
 
