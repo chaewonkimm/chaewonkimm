@@ -2,7 +2,7 @@
 
 
 ## Hi There
-Hello, I'm ChaeWon Kim, blending diverse inputs to craft meaningful value.
+**Hello, I'm ChaeWon Kim, blending diverse inputs to craft meaningful value.**
 
 I'm majoring in **AI Big Data Management** and minoring in **Computer Science**.
 
