@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:10C2FB,100:186CEB&height=210)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:10C2FB,100:186CEB&height=150&section=header)
 
 
 ## Hello, I'm ChaeWon Kim.
