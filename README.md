@@ -10,18 +10,6 @@ Currently, I'm focused on **Computer Vision**, **Multi-Modal**, and the developm
 
 <br>
 
-## Contact
-[![Mail](https://img.shields.io/badge/clkimcw@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](clkimcw@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jjaeon__v/) 
-
-<br>
-
-## About Me
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://abrupt-galley-143.notion.site/Hello-I-m-Chaewon-Kim-caa692a9c7b44aa2b9a9c328507a4e5b?pvs=4)
-[![Tistory](https://img.shields.io/badge/tistory-D95845?style=flat-square&logo=tistory&logoColor=white)](https://chaewonkim.tistory.com/)
-
-<br>
-
 ## Technical Skills
 #### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SPSS-008DD9?style=flat-square&logo=SPSSL&logoColor=white"/>
