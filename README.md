@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:10C2FB,100:186CEB&height=210&section=header&text=WELCOME&fontSize=55&desc=%20This%20is%20ChaeWon's%20Github&animation=fadeIn&descSize=20&FontSize=35&descAlign=67&descAlignY=56&fontAlignY=38&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:10C2FB,100:186CEB&height=210)
 
 
 ## Hello, I'm ChaeWon Kim.
