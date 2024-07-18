@@ -3,10 +3,13 @@
 
 ## Hi there, I'm ChaeWon👋
 I'm majoring in **AI, Big Data & Management** and minoring in **Computer Science**.
+<br>
 I'm currently focusing on **Generative AI**, **Multi-Modal**, and the development of **Anomaly Detection** algorithms.
+<br>
 I enjoy researching AI and applying and developing it in various ways.
 
-ᆞ Please contact me via [![Mail](https://img.shields.io/badge/clkimcw@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](clkimcw@gmail.com)
+ᆞ Please contact me via clkimcw@gmail.com
+<br>
 **ᆞ Please check for additional information about me here: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://abrupt-galley-143.notion.site/Hello-I-m-Chaewon-Kim-caa692a9c7b44aa2b9a9c328507a4e5b?pvs=4) [![Tistory](https://img.shields.io/badge/tistory-D95845?style=flat-square&logo=tistory&logoColor=white)](https://chaewonkim.tistory.com/)** 
 
 <br>
