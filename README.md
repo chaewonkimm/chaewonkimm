@@ -6,7 +6,7 @@ I'm majoring in **AI, Big Data & Management** and minoring in **Computer Science
 <br>
 I'm currently focusing on **Generative AI**, **Multi-Modal**, and the development of **Anomaly Detection** algorithms.
 <br>
-I enjoy researching AI and applying and developing it in various ways.
+I'm delving into AI research and finding various ways to apply and develop it.
 
 ᆞ Please contact me via clkimcw@gmail.com
 <br>
