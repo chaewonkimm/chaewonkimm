@@ -2,11 +2,11 @@
 
 
 ## Hi there, I'm ChaeWon👋
-I'm majoring in **AI, Big Data & Management** and minoring in **Computer Science**.
+I'm majoring in **AI, Big Data & Management**, and minoring in **Computer Science**.
 <br>
-I'm currently focusing on **Generative AI**, **Multi-Modal**, and the development of **Anomaly Detection** algorithms.
+I'm currently focusing on **Generative AI**, **Multi-Modal**, and developing **Anomaly Detection** algorithms.
 <br>
-I'm delving into AI research and finding various ways to apply and develop it.
+I'm delving into AI research and finding ways to apply and develop it.
 
 ᆞ Please contact me via clkimcw@gmail.com
 <br>
