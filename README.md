@@ -4,7 +4,7 @@
 ## Hi there, I'm ChaeWon👋
 I'm majoring in **AI, Big Data & Management**, and minoring in **Computer Science**.
 <br>
-I'm currently focusing on **Generative AI**, **Computer Vision**, and **Multi-Modal Learning**.
+I'm currently focusing on **Generative AI**, **Computer Vision**, and **Multi-Modal Learning**.
 <br>
 I'm delving into AI research, finding ways to develop and apply it.
 
