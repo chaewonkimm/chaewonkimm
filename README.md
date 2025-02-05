@@ -5,12 +5,10 @@
 I'm majoring in **AI, Big Data & Management**, and minoring in **Computer Science**.
 <br>
 I'm currently focusing on **Generative AI**, **Computer Vision**, and **Multi-Modal Learning**.
-<br>
-I'm delving into AI research, finding ways to develop and apply it.
 
-ᆞ Please contact me at clkimcw@gmail.com
+ᆞ Please feel free to contact me at clkimcw@gmail.com
 <br>
-**ᆞ Please check for additional information about me here: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://abrupt-galley-143.notion.site/ChaeWon-Kim-14db843a3aab80cb8a49c71179842f8c?pvs=4) [![Tistory](https://img.shields.io/badge/tistory-D95845?style=flat-square&logo=tistory&logoColor=white)](https://chaewonkim.tistory.com/)** 
+**ᆞ You can find more about me here: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://abrupt-galley-143.notion.site/ChaeWon-Kim-14db843a3aab80cb8a49c71179842f8c?pvs=4) [![Tistory](https://img.shields.io/badge/tistory-D95845?style=flat-square&logo=tistory&logoColor=white)](https://chaewonkim.tistory.com/)**
 
 <br>
 
