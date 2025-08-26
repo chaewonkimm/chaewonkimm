@@ -4,10 +4,10 @@
 ## Hi there, I'm ChaeWon👋
 I'm majoring in **AI, Big Data & Management**, and minoring in **Computer Science**.
 <br>
-🔭 I’m interested in **Computer Vision**, especially in improving **perception and recognition quality**.  
-💡 I have worked on several research projects focusing on enhancing **visual understanding** and tackling artifacts in generative models.  
-🌱 I’m also passionate about exploring **AI applications across diverse domains**.  
-🚀 Currently, I’m looking forward to expanding my experiences by conducting innovative research in academic and applied AI.  
+- I’m interested in **Computer Vision**, especially in improving **perception and recognition quality**.  
+- I've worked on several research projects focusing on enhancing **visual understanding** and reducing artifacts in generative models.  
+- I’m also passionate about exploring **AI applications across diverse domains**.  
+- Currently, I’m looking forward to expanding my experiences by conducting innovative research in academic and applied AI.  
 
 ᆞ Please feel free to contact me at clkimcw@gmail.com
 
