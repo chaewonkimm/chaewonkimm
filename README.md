@@ -4,12 +4,12 @@
 ## Hi there, I'm ChaeWon👋
 I'm majoring in **AI, Big Data & Management**, and minoring in **Computer Science**.
 <br>
-I'm currently focusing on **Generative AI**, **Computer Vision**, and **Multi-Modal Learning**.
+🔭 I’m interested in **Computer Vision**, especially in improving **perception and recognition quality**.  
+💡 I have worked on several research projects focusing on enhancing **visual understanding** and tackling artifacts in generative models.  
+🌱 I’m also passionate about exploring **AI applications across diverse domains**.  
+🚀 Currently, I’m looking forward to expanding my experiences by conducting innovative research in academic and applied AI.  
 
 ᆞ Please feel free to contact me at clkimcw@gmail.com
-<br>
-
-**ᆞ You can find more about me here: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://abrupt-galley-143.notion.site/ChaeWon-Kim-195b843a3aab80ec8020e0ece009550b?pvs=4) [![Tistory](https://img.shields.io/badge/tistory-D95845?style=flat-square&logo=tistory&logoColor=white)](https://chaewonkim.tistory.com/)**
 
 <br>
 
