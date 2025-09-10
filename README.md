@@ -7,7 +7,7 @@ I'm majoring in **AI, Big Data & Management**, and minoring in **Computer Scie
 - I’m interested in **Computer Vision**, especially in improving **perception and recognition quality**.  
 - I've worked on research projects enhancing **visual understanding** and reducing artifacts in generative models.  
 - I’m also passionate about exploring **AI applications across diverse domains**.  
-- Currently, I’m looking forward to expanding my experiences by conducting innovative research in academic and applied AI. 
+- Currently, I’m working on computer vision and applied AI to solve real-world problems.
 
 ᆞ Please feel free to contact me at clkimcw@gmail.com
 
