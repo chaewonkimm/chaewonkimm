@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:10C2FB,100:186CEB&height=150&section=header)
 
 
-## Hi there, I'm ChaeWon👋
+## Hi there, I'm Chaewon👋
 I'm majoring in **AI, Big Data & Management**, and minoring in **Computer Science**.
 <br>
 - I’m interested in **Computer Vision**, especially in improving **perception and recognition quality**.  
